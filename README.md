@@ -95,5 +95,5 @@ You can test the REST APIs using [Postman](https://www.postman.com/). Below are 
 **URL:** `http://localhost:8080/api/patients/{id}`
 
 
-Further we can connect frontend part by developing the website using frameworks like ReactJs.
+**Further we can connect frontend part by developing the website using frameworks like ReactJs.**
 
